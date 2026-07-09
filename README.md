@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
@@ -17,4 +18,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
