@@ -27,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
