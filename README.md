@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -22,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
