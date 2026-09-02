@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
