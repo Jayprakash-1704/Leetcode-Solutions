@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -80,4 +82,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
