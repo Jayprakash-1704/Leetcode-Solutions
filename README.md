@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0877-stone-game](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
