@@ -126,4 +126,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Jayprakash-1704/Leetcode-Solutions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 <!---LeetCode Topics End-->
